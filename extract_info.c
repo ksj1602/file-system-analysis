@@ -71,7 +71,7 @@ int main (int argc, char *argv[])
 {
     if (argc < 2)
     {
-        fprintf(stderr, "Usage: ./lab3a [IMAGE FILE]\n");
+        fprintf(stderr, "Usage: ./extract-info [IMAGE FILE]\n");
         exit(1);
     }
     disk_image = open(argv[1], O_RDONLY);
