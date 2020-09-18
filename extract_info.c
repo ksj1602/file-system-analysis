@@ -1,8 +1,3 @@
-/*
-    NAME: Kshitij Jhunjhunwala
-    EMAIL: ksj1602@ucla.edu
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>

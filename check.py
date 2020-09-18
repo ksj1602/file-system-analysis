@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-# NAME: Kshitij Jhunjhunwala
-# EMAIL: ksj1602@ucla.edu
-
 from collections import defaultdict
 import sys
 
