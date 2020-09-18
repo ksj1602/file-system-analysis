@@ -25,4 +25,4 @@ If you get a `Permission denied` error, use the following command to grant it ex
 ```
 $ chmod +x check.py
 ```
-Note: This project was prepared as part of UCLA coursework (CS 111: Operating Systems Principles) taken Summer 2020. Please do not copy it for any future offerings. I am not responsible if you are caught for cheating.
+Note: This project was made as part of Computer Science coursework at UCLA (CS 111: Operating Systems Principles) taken Summer 2020. Please do not copy any part of this for any future offerings. It has been uploaded here to showcase the project. I am not responsible in any way if you are caught for cheating.
